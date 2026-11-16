@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=wacome
+GenericName=Tablet Settings
+Comment=Configure Wacom tablets (xsetwacom) with live previews
+Exec=wacome
+Icon=input-tablet
+Terminal=false
+Categories=Settings;HardwareSettings;
+Keywords=wacom;tablet;pen;stylus;xsetwacom;
