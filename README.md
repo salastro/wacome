@@ -22,7 +22,7 @@ python -m wacome            # GUI
 python -m wacome --list     # tablets, monitors, profiles
 python -m wacome --apply [PROFILE] [--dry-run] [-v]
 python -m wacome --daemon [PROFILE]
-pip install --user .        # installs the `wacome` command
+pip install --user wacome   # installs the `wacome` command
 ```
 
 Requires Python ≥ 3.10, PySide6, `xsetwacom` (xf86-input-wacom), `xrandr`, and `xinput`.
